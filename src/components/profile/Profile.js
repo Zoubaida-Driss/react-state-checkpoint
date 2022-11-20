@@ -6,7 +6,7 @@ import { MDBCol, MDBContainer, MDBRow, MDBCard, MDBCardText, MDBCardBody, MDBCar
 export default class Profile extends Component {
   
   render() {
-  console.log(this.props.showing) 
+  // console.log(this.props.showing) 
     return (
         
         
